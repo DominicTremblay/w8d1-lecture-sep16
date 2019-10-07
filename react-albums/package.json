@@ -27,9 +27,5 @@
     "not op_mini all"
   ],
   "proxy": "https://itunes.apple.com/",
-  "devDependencies": {
-    "@testing-library/jest-dom": "^4.1.0",
-    "@testing-library/react": "^9.1.4"
-  },
   "jest": {}
 }
